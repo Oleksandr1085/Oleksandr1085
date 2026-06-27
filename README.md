@@ -13,8 +13,8 @@ I am a results-oriented professional transitioning from logistics management int
 
 ### 🚀 Featured Projects
 - [**AI-Content-Portfolio**](https://github.com/Oleksandr1085/AI-Content-Portfolio) — Automating content production workflows with AI.
-- [**QA-Portfolio**](https://github.com/Oleksandr1085/QA-Portfolio) — Examples of test cases, bug reports, and technical documentation.
 - [**AI-Automated-Search-Agent**](https://github.com/Oleksandr1085/AI-Automated-Search-Agent) — An intelligent agent designed to automate complex information retrieval and data synthesis tasks using LLMs.
+- [**QA-Portfolio**](https://github.com/Oleksandr1085/QA-Portfolio) — Examples of test cases, bug reports, and technical documentation.
 ---
 📫 **How to reach me:**
 - Email: Klimchuk10@i.ua
